@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?xiaozisong=Cl0udG0d)](https://github.com/anuraghazra/github-readme-stats)
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=xiaozisong)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
