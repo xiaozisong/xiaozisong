@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?xiaozisong=Cl0udG0d)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **xiaozisong/xiaozisong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
