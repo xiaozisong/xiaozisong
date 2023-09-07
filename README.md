@@ -16,7 +16,7 @@ This`s my github zone. Welcome.
 
 ### APIs:
 
-<img src="http://img.shields.io/badge/-opengl-black?style=for-the-badge&logo=opengl" style="margin:5px" /><img src="http://img.shields.io/badge/-qt-black?style=for-the-badge&logo=qt" style="margin:5px" />
+<img src="http://img.shields.io/badge/-opengl-black?style=for-the-badge&logo=opengl" style="margin:5px" />
 
 ### Tools:
 
