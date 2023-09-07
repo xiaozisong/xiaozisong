@@ -40,8 +40,8 @@ I'd like to get in touch with the following topics:
 ## - 📫 How to reach me
 
 You can e-mail me directly, get in touch through the account(s) below!
-https://img.shields.io/badge/email-black?style=for-the-badge&logo=google
-[![Linkedin Badge](\https://img.shields.io/badge/email-black?style=for-the-badge&logo=google)]([https://www.google.com/in/do%C4%9Fa-oru%C3%A7-973b08155/](https://mail.google.com/mail/))
+
+[![Email Badge](https://img.shields.io/badge/email-black?style=for-the-badge&logo=google)](https://xiaozisong.github.io)
 [![Portfolio Badge](http://img.shields.io/badge/event_horizon-check_out_my_portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xiaozisong.github.io)
 
 <div align="center">
