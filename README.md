@@ -1,48 +1,19 @@
-# 🙋‍♂️ Hi there ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Faeris170.aeris170%2Freadme)
+# 🙋‍♂️ Hi there 
 
-I am Doğa Oruç. I am based in İzmir, Turkey.
+This`s my github zone. Welcome.
 
-I'm an enthusiastic Game Developer, Graphics Programmer and a Computer Scientist, focused on working with challenging projects and having fun while working.
-
-![Doğa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaozisong&show_icons=true)
+![xiaozisong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaozisong&show_icons=true)
 
 ## - 🕹️ My Job
 
-I'm working as a graphics programmer on a Microsoft Hololens project. 👓
-
-I'm also working as an independent Game Developer ;) 🎮
-
-## - 🔭 I'm currently working on
-
-<table style="width:100%; table-layout:fixed">
-  <tr>
-    <th>My Small 2D Game Engine</th>
-    <th>A RISK tabletop game implementation</th>
-    <th>My Small 2D Game Engine, but in C++</th>
-  </tr>
-  <tr>
-    <td>
-		<a href="https://github.com/aeris170/DoaEngine">
-			<img src="https://i.hizliresim.com/kcX3Xz.png" />
-		</a>
-	</td>
-    <td>
-		<a href="https://github.com/aeris170/RISK-Digital-Cut">
-			<img src="https://repository-images.githubusercontent.com/169880359/d106c280-9780-11e9-983c-0b51e49af958" />
-		</a>
-	</td>
-    <td>
-		<a href="https://github.com/chroma-works/NeoDoa">
-			<img src="https://user-images.githubusercontent.com/25724155/72576385-9ca35100-38e0-11ea-9f10-5de3852e6df3.png" />
-		</a>
-	</td>
-  </tr>
-</table>
+前端工程师 ;) 🎮
 
 ## - 🧠 I Know / Use
 ### Programming Languages:
-
-<img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" /><img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=green" style="margin:5px" /><img src="http://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=blue" style="margin:5px" /><img src="http://img.shields.io/badge/-c-black?style=for-the-badge&logo=c&logoColor=white" style="margin:5px" /><img src="http://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=orange" style="margin:5px" /><img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" />
+https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript
+<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript" style="margin:5px" /><img src="https://img.shields.io/badge/go-black?style=for-the-badge&logo=go" style="margin:5px" />
+<img src="http://img.shields.io/badge/-c-black?style=for-the-badge&logo=c&logoColor=white" style="margin:5px" /><img src="http://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=orange" style="margin:5px" />
+<img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" />
 
 <code><img src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true" height="32px" style="margin:5px" /></code>
 
