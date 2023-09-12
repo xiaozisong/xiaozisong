@@ -2,7 +2,6 @@
 
 This`s my github zone. Welcome.
 
-![xiaozisong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaozisong&show_icons=true)
 
 ## - 🕹️ My Job
 
